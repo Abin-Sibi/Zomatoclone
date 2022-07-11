@@ -6,7 +6,7 @@ body{
 
 
 .top{
-  background:url("/Zomato/81f3ff974d82520780078ba1cfbd453a1583259680.avif");
+  background:url("81f3ff974d82520780078ba1cfbd453a1583259680.avif");
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -178,7 +178,7 @@ flex-direction: row;
 .sub1{
     height: 320px;
 width: 253px;
-background-image: url(/Zomato/35ada9497cff86dca8c5060d7942119b_1647342216.avif);
+background-image: url(35ada9497cff86dca8c5060d7942119b_1647342216.avif);
 background-size: cover;
 object-fit:cover;
 object-position: center;
@@ -211,7 +211,7 @@ border-radius: 15px;
     border-radius: 15px;
 }
 .sub2{
-    background-image: url(/Zomato/1b8c164e8a18878468d8aabeb0b486b1_1625812717.avif);
+    background-image: url(1b8c164e8a18878468d8aabeb0b486b1_1625812717.avif);
     height: 320px;
 width: 253px;
 background-size: cover;
@@ -221,7 +221,7 @@ border-radius: 15px;
 margin-left: 10px;
 }
 .sub3{
-    background-image: url(/Zomato/ee4046e4f4ece7423f2428ce042982c5_1551089018.avif);
+    background-image: url(ee4046e4f4ece7423f2428ce042982c5_1551089018.avif);
     height: 320px;
 width: 253px;
 background-size: cover;
@@ -232,7 +232,7 @@ margin-left: 10px;
 }
 
 .sub4{
-    background-image: url(/Zomato/8a5e4077f0ce1fce789454b3623e8439_1611749519.avif);
+    background-image: url(8a5e4077f0ce1fce789454b3623e8439_1611749519.avif);
     height: 320px;
 width: 253px;
 background-size: cover;
